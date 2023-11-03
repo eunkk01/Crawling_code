@@ -29,3 +29,23 @@
 
 
 -----------
+
+
+## naver_news_TV연예 folder
+
+[naver_news_TV연예](https://github.com/eunkk01/Crawling_code/tree/main/naver_news_TV%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A8)
+
+#### 1.naver_news_TV연예_link_crawl
+
+- 네이버 뉴스 중 TV연예 섹션의 뉴스 수집
+  - https://entertain.naver.com/now#sid=106&date={D}&page={page_num}
+
+
+#### 2.naver_news_TV연예_text_crawl
+
+- 기사 텍스트 수집
+
+
+#### 3.naver_news_text_preprocessing
+
+- 의미없는 텍스트 전처리 진행
