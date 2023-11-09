@@ -49,3 +49,14 @@
 #### 3.naver_news_text_preprocessing
 
 - 의미없는 텍스트 전처리 진행
+
+
+-----------
+
+
+## nate_top_10_kyword  folder
+
+[nate_top_10_jeyword](https://github.com/eunkk01/Crawling_code/tree/main/nate_top_10_keyword)
+
+quarter = {'0': 1, '3': 2, '6': 3, '9': 4, '12': 5, '15': 6, '18': 7, '21': 8} \
+-> 00시를 기준으로 3시간마다 수집 자동화(원하는 주기로 변경 가능)
