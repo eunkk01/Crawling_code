@@ -60,3 +60,26 @@
 
 quarter = {'0': 1, '3': 2, '6': 3, '9': 4, '12': 5, '15': 6, '18': 7, '21': 8} \
 -> 00시를 기준으로 3시간마다 수집 자동화(원하는 주기로 변경 가능)
+
+
+-----------
+
+
+## goodreads folder
+
+[goodreads](https://github.com/eunkk01/Crawling_code/tree/main/goodreads)
+
+#### 1. goodreads_gr_list_category
+
+- 각 장르에 속해있는 카테고리 링크 수집
+
+
+#### 2. goodreads_book_href
+
+- 수집된 카레고리 링크로 접속해 카테로리에 속한 도서 링크와 순위 수집
+  - 중복 어떻게 할 디 고민해야 함
+
+
+#### 3. goodreads_book_detail
+
+- 수집된 도서 링크로 접속해 정보 수집
