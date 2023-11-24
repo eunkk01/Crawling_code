@@ -83,3 +83,8 @@ quarter = {'0': 1, '3': 2, '6': 3, '9': 4, '12': 5, '15': 6, '18': 7, '21': 8} \
 #### 3. goodreads_book_detail
 
 - 수집된 도서 링크로 접속해 정보 수집
+
+
+#### 4. goodreads_book_review
+
+- payload를 이용한 도서 리뷰 수집
